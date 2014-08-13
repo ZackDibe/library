@@ -28,3 +28,7 @@ Machine Learning
 
 * Intro to Machine Learning - _Alex Smola, S.V.N. Vishwanathan_
 
+Computer Vision
+------------------
+
+* Programming Computer Vision (in PIL) - _Jan Erik Solem_
